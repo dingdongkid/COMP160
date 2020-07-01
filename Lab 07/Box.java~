@@ -1,0 +1,41 @@
+/** Lab 7, COMP160, 2017, Nicholas Dong
+  * Box.java
+  * Creates a box
+  */
+
+public class Box{
+  
+  // data field declarations
+  private int height;
+  private int width;
+  private int length;
+  
+  //sets height value
+  public void setHeight(int h){
+    height = h;
+  }
+  
+  //sets width value
+  public void setWidth(int w){
+    width = w;
+  }
+  
+  //sets length value
+  public void setLength(int l){
+    length = l;
+  }
+  
+  //returns surface area value
+  public int getSurfaceArea(){
+    return SurfaceArea;
+  }
+  
+  //returns volume value
+  public int getVolume(){
+    
+    return Volume;
+  }
+  
+  //displays string?
+  public String toString(){
+    
