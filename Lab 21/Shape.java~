@@ -1,0 +1,10 @@
+import java.awt.*
+/** Lab 21, COMP160, Nicholas Dong
+  * Shape.java
+  * Holds circle data to be created
+  */
+
+public class Shape{
+  private int x, y, width, height;
+  private Color colour;
+  

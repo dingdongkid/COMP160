@@ -1,0 +1,9 @@
+import javax.swing.*;
+import java.awt.event.*;
+/** Lab 21, COMP160, Nicholas Dong
+  * ShapePanel.java
+  * Control panel to generate objects
+  */
+
+public class ShapePanel extends JPanel{
+}

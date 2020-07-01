@@ -1,0 +1,10 @@
+package shapes;
+import java.awt.*;
+import java.util.*;
+/** Lab 23, COMP160, Nicholas Dong
+  * Circle.java
+  * Provides data for a circle
+  */
+
+public class Circle extends Shape{
+}
