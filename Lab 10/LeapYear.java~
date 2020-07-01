@@ -1,0 +1,6 @@
+/** Lab 10, COMP160, Nicholas Dong
+  * LeapYear.java
+  * Determines if a given year is a leap year
+  */
+
+public class LeapYear{
