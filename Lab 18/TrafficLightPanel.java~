@@ -1,0 +1,7 @@
+import java.awt.*;
+import java.awt.event.*;
+import javax.swing.*;
+
+/** Lab 18, COMP160, Nicholas Dong
+  * TrafficLightPanel.java
+  * Listemner with multiple buttons

@@ -1,0 +1,11 @@
+import java.util.Scanner;
+
+/** Lab 15, COMP160, Nicholas Dong
+  * IntCounterApp.java
+  * Makes an array, asks for user input, finds integer in array
+  */
+
+public class IntCounterApp{
+  public static void main(String[]args){
+  }
+}

@@ -1,0 +1,7 @@
+/** Lab 16, COMP160, Nicholas Dong
+  * Timetable.java
+  * Displays a 12x12 multiplication table
+  */
+
+public class Timetable{
+  public static void main(String[]args){

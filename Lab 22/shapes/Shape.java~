@@ -1,0 +1,31 @@
+package shapes;
+import java.awt.*;
+import java.util.*;
+/** Lab 21, COMP160, Nicholas Dong
+  * Shape.java
+  * Holds circle data to be created
+  */
+
+public class Shape{
+  private int x, y, width, height;
+  private Color colour;
+  
+  public int randomRange(int lo, int hi){
+    Random generator = new Random();
+    return generator.nextInt(hi-lo+1) + lo;
+  }
+  
+  public Shape(){
+    width = randomRange(10, 30);
+    height = width;
+    x = randomRange(0, 400-width);
+    y = randomRange(0, 400-height);
+    colour = new Color(randomRange(0, 255),randomRange(0, 255),randomRange(0, 255));
+  }
+  
+  public void display(Graphics g){
+    g.setColor(colour);
+    g.fillOval(x, y, width, height);
+  }
+}
+    

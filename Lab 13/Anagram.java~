@@ -1,0 +1,10 @@
+import java.util.Scanner;
+
+/** Lab 13, COMP160, Nicholas Dong
+  * Anagram.java
+  * Determines whether two given strings are anagrams
+  */
+
+public class Anagram{
+  public static void main(String[]args){
+    Scanner scan = new Scanner(System.in);

@@ -1,0 +1,9 @@
+import java.awt.*;
+import javax.swing.*;
+
+/** Lab 14, COMP160, Nicholas Dong
+  * TablePanel.java
+  * Draws table and diners
+  */
+
+public class TablePanel{}

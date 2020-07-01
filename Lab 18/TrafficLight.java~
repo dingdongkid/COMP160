@@ -1,0 +1,17 @@
+import javax.swing.*;
+
+/** Lab 18, COMP160, Nicholas Dong
+  * TrafficLight.java
+  * Jframe for TrafficLightPanel
+  */
+
+public class TrafficLight{
+  public static void main(String[]args){
+    
+    JFrame frame = new JFrame("Traffic Light");
+    frame.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
+    frame.getContentPane().add(new TrafficLightPanel());
+    frame.pack();
+    frame.setVisible(true);
+  }
+}

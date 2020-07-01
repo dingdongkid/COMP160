@@ -1,0 +1,6 @@
+/** Lab 11, COMP160, Nicholas Dong
+  * Song.java
+  * Gives information about a song title
+  */
+
+public class Song{

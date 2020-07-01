@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+/** Lab 16, COMP160, Nicholas Dong
+  * FruitSalad.java
+  * displays fruits and asks user to complete them
+  */
+
+public class FruitSalad{
+  
+  public static void main(String[]args){
+    String[] fruits = new String[3];
+    
+    //printing elements in array
+    for(String fruit:fruits){
+    }
+  }
+}

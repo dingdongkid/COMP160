@@ -1,0 +1,9 @@
+/** Lab 15, COMP160, Nicholas Dong
+  * IntCounter.java
+  * Takes an int array and shows requested data
+  */
+
+public class IntCounter{
+  int[] numArray = new int[];
+  
+}

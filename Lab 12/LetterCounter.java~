@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+/** Lab 12, COMP160, Nicholas Dong
+  * LetterCounter.java
+  * Counts vowels and consonants within a sentence
+  */
+
+public class LetterCounter{
+  public static void main(String[]args){
